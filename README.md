@@ -29,7 +29,7 @@ Tech Stack
 </div>Em aprendizado
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>AI & Data Science</h3>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow e Scikit-learn" />
       <br/><br/>

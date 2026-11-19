@@ -21,15 +21,17 @@ Software Engineering	Arquitetura, desenvolvimento e construção de sistemas con
 
 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postgres&amp;theme=dark" alt="Git, GitHub e PostgreSQL" />
-  <h3>Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=py,js,java&amp;theme=dark" alt="Python, JavaScript e Java" />
+  <img src="https://skillicons.dev/icons?i=py,git,github,postgres&amp;theme=dark" alt="Python, Git, GitHub e PostgreSQL" />
   <br/><br/>
   <img src="https://img.shields.io/badge/SQL-0B2239?style=flat-square&amp;logoColor=38BDF8" alt="SQL" />
 </div>Em aprendizado
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <h3>Linguagens</h3>
+      <img src="https://skillicons.dev/icons?i=js,java&amp;theme=dark" alt="JavaScript e Java" />
+    </td>
+    <td width="50%" valign="top">
       <h3>AI & Data Science</h3>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&amp;theme=dark" alt="PyTorch, TensorFlow e Scikit-learn" />
       <br/><br/>
